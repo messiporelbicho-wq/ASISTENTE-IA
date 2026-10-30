@@ -1,0 +1,6 @@
+{
+  "name": "OmniTutor AI: Asistente de Cursos Multidisciplinar",
+  "description": "Tutor educativo inteligente con IA para Matemática, Comunicación, Ciencias, Historia e Idiomas con explicaciones paso a paso, generador de quizzes y flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
